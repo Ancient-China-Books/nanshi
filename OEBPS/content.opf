@@ -1,0 +1,204 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="upKqla3JqGiEDyGDhdd9pp6">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>南史</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="唐·李延壽">唐·李延壽</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:description>&lt;div&gt;
+&lt;p&gt;唐李延壽撰，八十卷。二十四史之一。為南北朝時南朝之史。&lt;/p&gt;
+&lt;p&gt;基於「東里書齋」重製電子版。&lt;/p&gt;&lt;/div&gt;</dc:description>
+    <dc:date opf:event="modification">2022-06-10</dc:date>
+    <dc:identifier id="upKqla3JqGiEDyGDhdd9pp6" opf:scheme="uuid">upKqla3JqGiEDyGDhdd9pp6</dc:identifier>
+    <dc:subject>古籍</dc:subject>
+    <dc:subject>史部</dc:subject>
+    <dc:subject>斷代史</dc:subject>
+    <dc:subject>南史</dc:subject>
+    <dc:language>zh-TW</dc:language>
+    <dc:identifier opf:scheme="calibre">8159b0ac-38f4-4406-948a-9fba525ce5d6</dc:identifier>
+    <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
+    <meta content="南史" name="calibre:title_sort"/>
+    <meta name="cover" content="cover"/>
+    <meta content="horizontal-lr" name="primary-writing-mode"/>
+    <meta content="{&quot;唐·李延壽&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="二十四史" name="calibre:series"/>
+    <meta content="1.0" name="calibre:series_index"/>
+    <meta content="4.0" name="calibre:rating"/>
+    <meta content="1.9.10" name="Sigil version"/>
+  </metadata>
+  <manifest>
+    <item id="id0" href="Text/1841.html" media-type="application/xhtml+xml"/>
+    <item id="id1" href="Text/1842.html" media-type="application/xhtml+xml"/>
+    <item id="id2" href="Text/1843.html" media-type="application/xhtml+xml"/>
+    <item id="id3" href="Text/1844.html" media-type="application/xhtml+xml"/>
+    <item id="id4" href="Text/1845.html" media-type="application/xhtml+xml"/>
+    <item id="id5" href="Text/1846.html" media-type="application/xhtml+xml"/>
+    <item id="id6" href="Text/1847.html" media-type="application/xhtml+xml"/>
+    <item id="id7" href="Text/1848.html" media-type="application/xhtml+xml"/>
+    <item id="id8" href="Text/1849.html" media-type="application/xhtml+xml"/>
+    <item id="id9" href="Text/1850.html" media-type="application/xhtml+xml"/>
+    <item id="id10" href="Text/1851.html" media-type="application/xhtml+xml"/>
+    <item id="id11" href="Text/1852.html" media-type="application/xhtml+xml"/>
+    <item id="id12" href="Text/1853.html" media-type="application/xhtml+xml"/>
+    <item id="id13" href="Text/1854.html" media-type="application/xhtml+xml"/>
+    <item id="id14" href="Text/1855.html" media-type="application/xhtml+xml"/>
+    <item id="id15" href="Text/1856.html" media-type="application/xhtml+xml"/>
+    <item id="id16" href="Text/1857.html" media-type="application/xhtml+xml"/>
+    <item id="id17" href="Text/1858.html" media-type="application/xhtml+xml"/>
+    <item id="id18" href="Text/1859.html" media-type="application/xhtml+xml"/>
+    <item id="id19" href="Text/1860.html" media-type="application/xhtml+xml"/>
+    <item id="id20" href="Text/1861.html" media-type="application/xhtml+xml"/>
+    <item id="id21" href="Text/1862.html" media-type="application/xhtml+xml"/>
+    <item id="id22" href="Text/1863.html" media-type="application/xhtml+xml"/>
+    <item id="id23" href="Text/1864.html" media-type="application/xhtml+xml"/>
+    <item id="id24" href="Text/1865.html" media-type="application/xhtml+xml"/>
+    <item id="id25" href="Text/1866.html" media-type="application/xhtml+xml"/>
+    <item id="id26" href="Text/1867.html" media-type="application/xhtml+xml"/>
+    <item id="id27" href="Text/1868.html" media-type="application/xhtml+xml"/>
+    <item id="id28" href="Text/1869.html" media-type="application/xhtml+xml"/>
+    <item id="id29" href="Text/1870.html" media-type="application/xhtml+xml"/>
+    <item id="id30" href="Text/1871.html" media-type="application/xhtml+xml"/>
+    <item id="id31" href="Text/1872.html" media-type="application/xhtml+xml"/>
+    <item id="id32" href="Text/1873.html" media-type="application/xhtml+xml"/>
+    <item id="id33" href="Text/1874.html" media-type="application/xhtml+xml"/>
+    <item id="id34" href="Text/1875.html" media-type="application/xhtml+xml"/>
+    <item id="id35" href="Text/1876.html" media-type="application/xhtml+xml"/>
+    <item id="id36" href="Text/1877.html" media-type="application/xhtml+xml"/>
+    <item id="id37" href="Text/1878.html" media-type="application/xhtml+xml"/>
+    <item id="id38" href="Text/1879.html" media-type="application/xhtml+xml"/>
+    <item id="id39" href="Text/1880.html" media-type="application/xhtml+xml"/>
+    <item id="id40" href="Text/1881.html" media-type="application/xhtml+xml"/>
+    <item id="id41" href="Text/1882.html" media-type="application/xhtml+xml"/>
+    <item id="id42" href="Text/1883.html" media-type="application/xhtml+xml"/>
+    <item id="id43" href="Text/1884.html" media-type="application/xhtml+xml"/>
+    <item id="id44" href="Text/1885.html" media-type="application/xhtml+xml"/>
+    <item id="id45" href="Text/1886.html" media-type="application/xhtml+xml"/>
+    <item id="id46" href="Text/1887.html" media-type="application/xhtml+xml"/>
+    <item id="id47" href="Text/1888.html" media-type="application/xhtml+xml"/>
+    <item id="id48" href="Text/1889.html" media-type="application/xhtml+xml"/>
+    <item id="id49" href="Text/1890.html" media-type="application/xhtml+xml"/>
+    <item id="id50" href="Text/1891.html" media-type="application/xhtml+xml"/>
+    <item id="id51" href="Text/1892.html" media-type="application/xhtml+xml"/>
+    <item id="id52" href="Text/1893.html" media-type="application/xhtml+xml"/>
+    <item id="id53" href="Text/1894.html" media-type="application/xhtml+xml"/>
+    <item id="id54" href="Text/1895.html" media-type="application/xhtml+xml"/>
+    <item id="id55" href="Text/1896.html" media-type="application/xhtml+xml"/>
+    <item id="id56" href="Text/1897.html" media-type="application/xhtml+xml"/>
+    <item id="id57" href="Text/1898.html" media-type="application/xhtml+xml"/>
+    <item id="id58" href="Text/1899.html" media-type="application/xhtml+xml"/>
+    <item id="id59" href="Text/1900.html" media-type="application/xhtml+xml"/>
+    <item id="id60" href="Text/1901.html" media-type="application/xhtml+xml"/>
+    <item id="id61" href="Text/1902.html" media-type="application/xhtml+xml"/>
+    <item id="id62" href="Text/1903.html" media-type="application/xhtml+xml"/>
+    <item id="id63" href="Text/1904.html" media-type="application/xhtml+xml"/>
+    <item id="id64" href="Text/1905.html" media-type="application/xhtml+xml"/>
+    <item id="id65" href="Text/1906.html" media-type="application/xhtml+xml"/>
+    <item id="id66" href="Text/1907.html" media-type="application/xhtml+xml"/>
+    <item id="id67" href="Text/1908.html" media-type="application/xhtml+xml"/>
+    <item id="id68" href="Text/1909.html" media-type="application/xhtml+xml"/>
+    <item id="id69" href="Text/1910.html" media-type="application/xhtml+xml"/>
+    <item id="id70" href="Text/1911.html" media-type="application/xhtml+xml"/>
+    <item id="id71" href="Text/1912.html" media-type="application/xhtml+xml"/>
+    <item id="id72" href="Text/1913.html" media-type="application/xhtml+xml"/>
+    <item id="id73" href="Text/1914.html" media-type="application/xhtml+xml"/>
+    <item id="id74" href="Text/1915.html" media-type="application/xhtml+xml"/>
+    <item id="id75" href="Text/1916.html" media-type="application/xhtml+xml"/>
+    <item id="id76" href="Text/1917.html" media-type="application/xhtml+xml"/>
+    <item id="id77" href="Text/1918.html" media-type="application/xhtml+xml"/>
+    <item id="id78" href="Text/1919.html" media-type="application/xhtml+xml"/>
+    <item id="id79" href="Text/1920.html" media-type="application/xhtml+xml"/>
+    <item id="id80" href="Text/1921.html" media-type="application/xhtml+xml"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
+    <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
+    <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
+    <item id="fsung-f" href="Fonts/FSung-F.ttf" media-type="application/x-font-truetype"/>
+    <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
+  </manifest>
+  <spine page-progression-direction="ltr" toc="ncx">
+    <itemref idref="id0"/>
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id3"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id7"/>
+    <itemref idref="id8"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id11"/>
+    <itemref idref="id12"/>
+    <itemref idref="id13"/>
+    <itemref idref="id14"/>
+    <itemref idref="id15"/>
+    <itemref idref="id16"/>
+    <itemref idref="id17"/>
+    <itemref idref="id18"/>
+    <itemref idref="id19"/>
+    <itemref idref="id20"/>
+    <itemref idref="id21"/>
+    <itemref idref="id22"/>
+    <itemref idref="id23"/>
+    <itemref idref="id24"/>
+    <itemref idref="id25"/>
+    <itemref idref="id26"/>
+    <itemref idref="id27"/>
+    <itemref idref="id28"/>
+    <itemref idref="id29"/>
+    <itemref idref="id30"/>
+    <itemref idref="id31"/>
+    <itemref idref="id32"/>
+    <itemref idref="id33"/>
+    <itemref idref="id34"/>
+    <itemref idref="id35"/>
+    <itemref idref="id36"/>
+    <itemref idref="id37"/>
+    <itemref idref="id38"/>
+    <itemref idref="id39"/>
+    <itemref idref="id40"/>
+    <itemref idref="id41"/>
+    <itemref idref="id42"/>
+    <itemref idref="id43"/>
+    <itemref idref="id44"/>
+    <itemref idref="id45"/>
+    <itemref idref="id46"/>
+    <itemref idref="id47"/>
+    <itemref idref="id48"/>
+    <itemref idref="id49"/>
+    <itemref idref="id50"/>
+    <itemref idref="id51"/>
+    <itemref idref="id52"/>
+    <itemref idref="id53"/>
+    <itemref idref="id54"/>
+    <itemref idref="id55"/>
+    <itemref idref="id56"/>
+    <itemref idref="id57"/>
+    <itemref idref="id58"/>
+    <itemref idref="id59"/>
+    <itemref idref="id60"/>
+    <itemref idref="id61"/>
+    <itemref idref="id62"/>
+    <itemref idref="id63"/>
+    <itemref idref="id64"/>
+    <itemref idref="id65"/>
+    <itemref idref="id66"/>
+    <itemref idref="id67"/>
+    <itemref idref="id68"/>
+    <itemref idref="id69"/>
+    <itemref idref="id70"/>
+    <itemref idref="id71"/>
+    <itemref idref="id72"/>
+    <itemref idref="id73"/>
+    <itemref idref="id74"/>
+    <itemref idref="id75"/>
+    <itemref idref="id76"/>
+    <itemref idref="id77"/>
+    <itemref idref="id78"/>
+    <itemref idref="id79"/>
+    <itemref idref="id80"/>
+  </spine>
+</package>
